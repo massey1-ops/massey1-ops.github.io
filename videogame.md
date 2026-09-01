@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: General Information
+title: Video Game Project
+subtitle: A pokemon spinoff game me and a friend are making
 ---
 
-My name is Savannah Massey. I am an Applied Mathematics and Computing student at Kenyon College. In my free time, I love math, coding, writing and art. I am a published author and artist! :)
+At the moment, all I've done is make the pixel sprite sheets for the four starter characters we are using.
 
-### My Background in Computing
+### Other updates
 
-I started coding in elementary school with short animations in javaScript but soon after forgot about it. Last year, I took Introduction to Programming and Conversations in Cyber Security.
+I will update this later.
