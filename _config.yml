@@ -24,6 +24,8 @@ navbar-links:
   Resources:
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Video Game: "videogame"
+  Projects: 
+    - Video Game: "videogame"
   Author's home: "https://massey1-ops.github.io"
 
 ################
