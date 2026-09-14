@@ -8,7 +8,7 @@ author: Savannah Massey
 ---
 
 | Front                                                | Back                                                |
-| :---                                                 |         ---:                                        |
+|                      :----:                          |                       :----:                        |
 | ![Front Sewing Sampler](/assets/img/avatar-icon.png) | ![Back Sewing Sampler](/assets/img/avatar-icon.png) |
 
 
