@@ -7,7 +7,7 @@ share-img: /assets/img/avatar-icon.png
 author: Savannah Massey
 ---
 
-| Left Column                                          | Right Column                                        |
+| Front                                                | Back                                                |
 | :---                                                 |         ---:                                        |
 | ![Front Sewing Sampler](/assets/img/avatar-icon.png) | ![Back Sewing Sampler](/assets/img/avatar-icon.png) |
 
