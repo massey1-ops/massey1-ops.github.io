@@ -2,14 +2,14 @@
 layout: post
 title: Sewing Sampler
 subtitle: 9 new embroidery stitches
-thumbnail-img: /assets/img/avatar-icon.png
-share-img: /assets/img/avatar-icon.png
+thumbnail-img: /assets/img/front_sewing.jpeg
+share-img: /assets/img/front_sewing.jpeg
 author: Savannah Massey
 ---
 
-| Front                                                | Back                                                |
-|                      :----:                          |                       :----:                        |
-| ![Front Sewing Sampler](/assets/img/avatar-icon.png) | ![Back Sewing Sampler](/assets/img/avatar-icon.png) |
+| Front                                                  | Back                                                 |
+|                      :----:                            |                       :----:                         |
+| ![Front Sewing Sampler](/assets/img/front_sewing.jpeg) | ![Back Sewing Sampler](/assets/img/back_sewing.jpeg) |
 
 
 
