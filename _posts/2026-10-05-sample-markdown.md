@@ -17,6 +17,7 @@ Back:
 ![Back](/assets/img/braceletBack.png) |
 
 Alligator Clip Prototype:
+
 ![Proto](/assets/img/physicalPrototypeB.png)
 
 Paper Prototype:
