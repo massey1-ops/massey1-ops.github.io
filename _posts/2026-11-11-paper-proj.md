@@ -4,12 +4,13 @@ title: Lights, More Lights, Action!!
 subtitle: on paper
 author: Savannah Massey
 ---
-Complementary Colors
-![](/assets/img/compcolors.png)
+Color Wheel
 
-| Automatic Flashlight | Color Wheel |
+![](/assets/img/colorwheel.png)
+
+| Automatic Flashlight | Complementary Colors |
 | --- | --- |
-| ![](/assets/img/autoflash.png) | ![](/assets/img/colorwheel.png) |
+| ![](/assets/img/autoflash.png) | ![](/assets/img/compcolors.png) |
 
 
 
